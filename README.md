@@ -2,13 +2,13 @@
 
 > Una inmersión profunda en la Programación Orientada a Objetos, desde los conceptos básicos de C++98 hasta la manipulación avanzada de la STL y plantillas.
 
-[![C++](https://img.shields.io/badge/Language-C++98%20%2F%20Cstyle=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/Language-C++98-00599C?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![42](https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42)](https://42.fr/en/homepage/)
 [![Linux](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?style=for-the-badge&logo=linux)](https://www.linux.org/)
 
 ## 📖 Sobre el Proyecto
 
-Este repositorio contiene las soluciones completas a los módulos de C++ de **42**. A diferencia de los tutoriales convencionales, este curso obliga a adherirse al estándar **C++98** (en los primeros módulos) para comprender la gestión manual de memoria y la estructura interna de las clases, antes de saltar a las comodidades modernas.
+Este repositorio contiene las soluciones completas a los módulos de C++ de **42**. A diferencia de los tutoriales convencionales, este curso obliga a adherirse al estándar **C++98** para comprender la gestión manual de memoria y la estructura interna de las clases, antes de saltar a las comodidades modernas.
 
 **Conceptos clave dominados:**
 * **Coplien Form:** Constructor, Destructor, Copy Constructor y Assignment Operator Overload.
