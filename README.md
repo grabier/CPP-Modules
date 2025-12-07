@@ -2,7 +2,7 @@
 
 > Una inmersión profunda en la Programación Orientada a Objetos, desde los conceptos básicos de C++98 hasta la manipulación avanzada de la STL y plantillas.
 
-[![C++](https://img.shields.io/badge/Language-C++98%20%2F%20C++11-00599C?style=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/Language-C++98%20%2F%20Cstyle=for-the-badge&logo=c%2B%2B)](https://isocpp.org/)
 [![42](https://img.shields.io/badge/School-42-000000?style=for-the-badge&logo=42)](https://42.fr/en/homepage/)
 [![Linux](https://img.shields.io/badge/OS-Linux%2FUnix-FCC624?style=for-the-badge&logo=linux)](https://www.linux.org/)
 
